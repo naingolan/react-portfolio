@@ -32,7 +32,6 @@ To navigate the React portfolio project, simply click on the navigation links at
 The React portfolio project is structured into several directories, including:
 
 - `src`: contains the React components, styles and assets.
-- `server`: contains the server-side code that connects to the database and provides an API.
 
 ## Contributing Guidelines
 
